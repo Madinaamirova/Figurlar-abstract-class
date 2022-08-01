@@ -1,0 +1,15 @@
+
+abstract Figure classi movcuddur.
+
+Calculate methodumuz var
+
+
+
+1:)Square classimiz var ve bu CalculateArea methodunu ozune uyghun override edir.
+
+
+2:)Rectangle classimiz var ve bu class da CalculateArea methodunu ozune uyghun ovveride edir
+
+3:)Trapeze classimiz var ve bu class da CalculateArea methodunu ozune uyghun ovveride edir
+
+4:) Circle (Daire) classimiz var ve bu class da CalculateArea methodunu ozune uyghun override edir.
